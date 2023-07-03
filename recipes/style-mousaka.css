@@ -1,0 +1,18 @@
+body{
+
+    background-color: rgb(243, 226, 205);
+}
+h1{
+    padding: -20px;
+    font-size: 30px;
+    font-weight: bold;
+    text-shadow:1px 2px 5px black;
+}
+img{
+    width:400px;
+    height:auto;
+}
+
+li{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
