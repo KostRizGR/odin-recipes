@@ -1,0 +1,25 @@
+p{
+    color:lightseagreen;
+    font-size:50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:1000;
+}
+.div01{
+    background-color: bisque;
+    width:500px;
+    
+}
+
+.div1{
+  
+  border-radius:5px solid black;
+ font-size: 30px;
+ 
+
+}
+
+img {
+    
+    border-radius:2px solid black ;
+    width:500px;
+}
