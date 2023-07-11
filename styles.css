@@ -1,6 +1,6 @@
 body{
 background-color:rgb(52, 155, 155);
-
+height:1000px;
 }
 .first{
    
@@ -115,15 +115,21 @@ button{
 
 
 #thanks{
-
+  
   color:rgb(57, 84, 119);
 }
 
 .thanks1{
   background-color:rgb(20, 20, 51);
   border:1px solid rgb(20, 20, 51);;
-  margin:-8px;
+  
   margin-top:2px;
+  position:fixed;
+  left: 0;
+  bottom: 0;
+  width:100%;
+  
+  
 }
 
 
