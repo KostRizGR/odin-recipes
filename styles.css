@@ -107,6 +107,17 @@ button{
 }
 
 
+#images{
+  display:inline-block;
+  height:100px;
+  margin:auto;
+}
+
+#thanks{
+
+  color:rgb(16, 46, 85);
+}
+
 
 
 
