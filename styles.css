@@ -113,11 +113,18 @@ button{
   margin:auto;
 }
 
+
 #thanks{
 
-  color:rgb(16, 46, 85);
+  color:rgb(57, 84, 119);
 }
 
+.thanks1{
+  background-color:rgb(20, 20, 51);
+  border:1px solid rgb(20, 20, 51);;
+  margin:-8px;
+  margin-top:2px;
+}
 
 
 
